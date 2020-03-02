@@ -12,7 +12,17 @@ In order to run this application you must do the following things installed on y
     -IDE to run your application (preferably Eclipse).
 
 #Problem Statement:
-    - refer Problem Statement pdf
+    
+    For this assignment, we have implemented the following pattern matching algorithms given below.
+
+        Brute-Force algorithm
+        Boyer-Moore-Horspool algorithm
+        Knuth-Morris-Pratt algorithm
+        
+    Experiment:
+
+        Compareed three algorithms for several different input text and patterns; 10 different cases
+        Mentioned the number of comparisons required in a table for each case, for each algorithm
 
 ##Project folder layout
 
